@@ -1,5 +1,5 @@
 const contentLetterSrart_actived =
-  "Mình tên là Nguyễn Chí Vỹ . Kính gửi bạn người tôi yêu . Hãy nhấn vào hộp quà phía bên dưới sau đó nhấn vào mở hòm thư tình yêu nhé"; //Lời mở đầu cho bức thư
+  "Mình tên là Nguyễn Chí Vỹ . Kính gửi bạn . Hãy nhấn vào hộp quà phía bên dưới sau đó nhấn vào mở hòm thư nhé"; //Lời mở đầu cho bức thư
 const mainContentLetter =
   "Từ lúc gặp gỡ bạn, tôi nhận ra rằng không có từ ngữ nào đủ mạnh để diễn tả tình cảm mà tôi dành cho bạn. Chỉ có thể nói rằng bạn là một phần không thể thiếu trong cuộc sống của tôi và tôi muốn dành cả cuộc đời này để yêu thương và chăm sóc bạn"; //Nội dung của bức thư
 
